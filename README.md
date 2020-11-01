@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, Thanks for visiting my Profile!
 
-<!--
-**deepakdckumar/deepakdckumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Deepak. Currently, I am working as a Software Engineer at Accenture. 
 
-Here are some ideas to get you started:
+### Connect with me!
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<code>
+  <a href="https://www.github.com/deepakdckumar" target="_blank">
+    <img src="images/github.png" width="45" height="45"/>
+  </a>
+</code>
+<code>
+  <a href="https://www.linkedin.com/in/deepakdckumar" target="_blank">
+    <img src="images/linkedin.png" width="45" height="45"/>
+  </a>
+</code>
+<code>
+  <a href="https://twitter.com/deepakdckumar" target="_blank">
+    <img src="images/twitter.png" width="45" height="45"/>
+  </a>
+</code>
+<br>
+<br>
+If you scroll down a little bit, You will find some problems and me trying to find the solutions to those problems. In my spare time I like to read books, solve CP problems to learn and have fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<code><img src="images/java.png" alt="Java" width="45" height="45"></code>
+<code><img src="images/javascript.png" alt="JavaScript" width="45" height="45"></code>
+<code><img src="images/css.png" alt="CSS3" width="45" height="45"></code>
+<code><img src="images/html.png" alt="HTML5" width="45" height="45"></code>
+
+### Frameworks & Tools
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<code><img src="images/vim.svg" alt="VIM" width="45" height="45"></code>
+<code><img src="images/git.png" alt="Git" width="45" height="45"></code>
+<code><img src="images/maven.png" alt="Maven" width="45" height="45"></code>
+<code><img src="images/intellij.svg" alt="Intellij" width="45" height="45"></code>
+<code><img src="images/selenium.png" alt="Selenium" width="45" height="45"></code>
