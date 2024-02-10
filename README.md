@@ -1,3 +1,3 @@
 ### About
 
-SDET
+Accomplished Senior QA Engineer with expertise in end-to-end automation testing. Proven track record in developing ISO-based mock servers, refining automation suites, and implementing efficient testing workflows. Proficient in managing Jenkins, optimizing test reports, and providing valuable insights during whitebox testing. Demonstrated leadership in mentoring, code reviews, and knowledge transfer sessions. Adept at collaborating with cross-functional teams, analyzing acceptance criteria, and recommending enhancements. Specialized in Selenium Web Driver automation, with notable contributions to UI testing, logging, and validation frameworks. Well-versed in Appium for mobile app automation. Additionally experienced in Test Data Alive (TDA) application development. Strong advocate for version control tools like Git and Bitbucket.
